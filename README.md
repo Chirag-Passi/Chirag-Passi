@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Chirag 👋</h1>
 
-<!--
-**Chirag-Passi/Chirag-Passi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chirag-Passi&label=Profile+Views" alt="GitHub Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Software Engineer | Java & Spring Boot Backend Developer  
+- 🚀 Building scalable systems with Spring Boot, MongoDB, and a dash of cloud ☁️  
+- 🛠️ Passionate about clean code, system design & backend architecture  
+- 🧠 Regularly exploring DSA, LLD/HLD and sharing what I learn  
+- ✍️ Writing thoughts, reviews & guides – coming soon on Medium  
+- 🪄 Currently crafting a certificate verification system and other cool side-projects  
+- ⚡ Fun fact: In Java, strings are immutable — so every time you modify one, you're actually creating a new object!
+
+---
+
+### 🌐 Let's Connect  
+<code><a href="https://www.linkedin.com/in/chirag-passi/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>  
+<code><a href="https://x.com/ChiragPassi" target="_blank" title="Twitter/X Profile"><img alt="Twitter Logo" width="22" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"> X (Twitter)</a></code>  
+<code><a href="https://medium.com/@chirag-passi" target="_blank" title="Medium Profile"><img width="22" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw"> Medium</a></code>  
