@@ -22,7 +22,21 @@
 
 ---
 
-### 🌐 Let's Connect  
-<code><a href="https://www.linkedin.com/in/chirag-passi/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>  
-<code><a href="https://x.com/ChiragPassi" target="_blank" title="Twitter/X Profile"><img alt="Twitter Logo" width="22" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"> X (Twitter)</a></code>  
-<code><a href="https://medium.com/@chirag-passi" target="_blank" title="Medium Profile"><img width="22" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw"> Medium</a></code>  
+### 📫 Let's connect!
+
+<p>
+  <a href="https://www.linkedin.com/in/chirag-passi/" target="_blank" title="LinkedIn Profile">
+    <img alt="LinkedIn Logo" width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png" />
+    LinkedIn
+  </a> &nbsp;|&nbsp;
+
+  <a href="https://x.com/ChiragPassi" target="_blank" title="Twitter Profile">
+    <img alt="Twitter Logo" width="22" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" />
+    Twitter
+  </a> &nbsp;|&nbsp;
+
+  <a href="https://medium.com/@chirag-passi" target="_blank" title="Medium Profile">
+    <img alt="Medium Logo" width="22" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" />
+    Medium
+  </a>
+</p>
