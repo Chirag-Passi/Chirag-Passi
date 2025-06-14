@@ -6,13 +6,19 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 
-- 💼 Software Engineer | Java & Spring Boot Backend Developer  
+- 💼 Software Engineer | Java & Spring Boot Backend Developer
+  
 - 🚀 Building scalable systems with Spring Boot, MongoDB, and a dash of cloud ☁️  
+
 - 🛠️ Passionate about clean code, system design & backend architecture  
-- 🧠 Regularly exploring DSA, LLD/HLD and sharing what I learn  
+
+-  🧠 Regularly exploring DSA, LLD/HLD and sharing what I learn  
+
 - ✍️ Writing thoughts, reviews & guides – coming soon on Medium  
+
 - 🪄 Currently crafting a certificate verification system and other cool side-projects  
-- ⚡ Fun fact: In Java, strings are immutable — so every time you modify one, you're actually creating a new object!
+
+-  ⚡ Fun fact: In Java, strings are immutable — so every time you modify one, you're actually creating a new object!
 
 ---
 
